@@ -1,0 +1,2 @@
+# golangbasics
+Exploring go lang
